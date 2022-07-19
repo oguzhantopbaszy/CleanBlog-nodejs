@@ -1,0 +1,29 @@
+{
+  "name": "cleanblog-nodejs",
+  "version": "1.0.0",
+  "description": "Basic blog project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oguzhantopbaszy/CleanBlog-nodejs.git"
+  },
+  "keywords": [
+    "blog",
+    "app"
+  ],
+  "author": "Oğuzhan TOPBAŞ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oguzhantopbaszy/CleanBlog-nodejs/issues"
+  },
+  "homepage": "https://github.com/oguzhantopbaszy/CleanBlog-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
